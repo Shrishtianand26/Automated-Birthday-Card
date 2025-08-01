@@ -1,0 +1,16 @@
+ Script started!
+ Today's date: 28-07
+[WARNING] Skipping NaT - DOB is invalid or empty.
+[BIRTHDAY] It's Neeraj Jaiswal's birthday today!
+[CARD] Card created at birthday_cards\birthday_card_neeraj_jaiswal.png
+[EMAIL] Preparing email for Neeraj Jaiswal (shrishtianand26@gmail.com)...
+[EMAIL] Connecting to Gmail SMTP server...
+[EMAIL] Email successfully sent to Neeraj Jaiswal at shrishtianand26@gmail.com
+ Script started!
+ Today's date: 28-07
+[WARNING] Skipping NaT - DOB is invalid or empty.
+[BIRTHDAY] It's Neeraj Jaiswal's birthday today!
+[CARD] Card created at birthday_cards\birthday_card_neeraj_jaiswal.png
+[EMAIL] Preparing email for Neeraj Jaiswal (sritamswain1234@gmail.com)...
+[EMAIL] Connecting to Gmail SMTP server...
+[EMAIL] Email successfully sent to Neeraj Jaiswal at sritamswain1234@gmail.com
